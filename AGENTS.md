@@ -109,6 +109,7 @@ agent-sensebar-vault/
 - 不提交 API key、登入 cookie、下載憑證或私人字幕來源
 - 新電腦開工先跑 `pip install -r requirements.txt`；兩支腳本依賴的是 `yt_dlp` **Python 模組**，只裝 CLI（如 `uv tool install`）不算數
 - 寫 Markdown 的 mermaid 圖時，節點與邊的標籤一律加雙引號，且不要出現 `@`（Mermaid v11 起是保留語法，會讓整張圖不渲染）
+- **產出一律放 `output/`**：本專案產生的檔案或資料夾（成品、匯出、報表、生成圖、渲染等）預設放專案根目錄的 `output/`，不另開 `outputs/`、`exports/`、`generated/`、`out/` 之類的資料夾，方便找；`output/` 不進 git。部署工具指定的建置目錄（`dist/`、`build/`）不在此限
 
 ## 字幕清理規則
 
