@@ -1,4 +1,4 @@
-# sensebar-agent-knowledge-vault-builder 依賴定義
+# agent-sensebar-vault 依賴定義
 #
 # 安裝：
 #   pip install -r requirements.txt
