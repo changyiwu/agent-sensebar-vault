@@ -9,6 +9,13 @@
 # 目前 repo 內唯一實際被 import 的第三方套件
 yt-dlp>=2026.7.4
 
+# --- 選用：Whisper 後備轉錄（download_all_subs.py 遇到沒字幕的影片時才用到）---
+# 沒裝也能正常下載字幕，只是沒字幕的影片會轉錄失敗、下次執行再重試。
+# openai-whisper 會連帶安裝 torch；有 NVIDIA 顯示卡請先依 https://pytorch.org 裝 CUDA 版 torch，
+# 否則 pip 預設會裝 CPU 版，轉錄非常慢。另需系統有 ffmpeg。
+# openai-whisper>=20250625
+# opencc>=1.1.9
+
 # --- Agent 學習線（Stage 1，程式碼尚未進 repo）---
 # AGENTS.md 宣告的核心依賴。等 simple_agent.py / tools.py 進 repo 後再取消註解，
 # 避免現在就為了沒有任何程式碼 import 的套件拖進一整包 SDK。
