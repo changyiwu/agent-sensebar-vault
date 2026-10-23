@@ -59,7 +59,9 @@
 - [x] 影片擷取同步更新 Markdown 與 URL 清單，加入 EP01 影片
 - [x] 在專案目錄實際執行 `extract_videos.py`，確認影片清單與 URL 輸出
 - [x] 補齊 `requirements.txt`（依賴定義）
-- [ ] 實際執行 `download_all_subs.py`，確認字幕下載與清洗輸出
+- [x] 實際執行 `download_all_subs.py`，確認字幕下載與清洗輸出
+- [x] `download_all_subs.py` 加入 Whisper 後備轉錄（影片沒字幕時自動轉錄）
+- [ ] 移植 `media-youtube-publish` 的錯字對照表（`replacements.md`）到 Whisper 轉錄，含規則順序、英文詞邊界與保護詞
 - [ ] 建立可重複執行的驗證流程
 
 ## 資料夾結構
@@ -70,8 +72,9 @@ agent-sensebar-vault/
 ├─ extract_videos.py          # 擷取影片清單，同步 Markdown 與 URL 清單
 ├─ sensebar_ai_videos.md      # 影片清單（Markdown）
 ├─ sensebar_ai_urls.txt       # 影片網址清單
-├─ subtitles/                 # 下載的字幕
-├─ requirements.txt           # 依賴定義
+├─ subtitles/                 # 下載的字幕（不進 git）
+├─ output/                    # 產出與試跑結果（不進 git）
+├─ requirements.txt           # 依賴定義（Whisper 相關為選用、註解狀態）
 ├─ README.md                  # 專案導覽與概念說明
 ├─ AGENTS.md                  # 本檔：專案藍圖
 ├─ handoff.md                 # 交接檔（每次收工必更新）
@@ -119,6 +122,13 @@ agent-sensebar-vault/
 2. 移除 HTML／XML 標籤
 3. **滾動式去重**：YouTube 自動字幕會有重複的滾動行，需以連續行去重演算法生成流暢段落
 4. 輸出為 Markdown，將影片標題作為 H1，並包含原始 YouTube 連結
+
+Whisper 後備轉錄的規則：
+
+- 轉錄稿一律以 OpenCC `s2twp` 轉成台灣正體，並標註「字幕來源: Whisper 轉錄，非官方字幕」
+- 不要開 `carry_initial_prompt`：實測會漏掉整段內容
+- 修正聽錯字不可加入 `Cloud → Claude` 這類短規則，除非同時實作詞邊界與保護詞（否則會誤傷 `iCloud`、`Google Cloud`）
+- 轉錄失敗不可寫佔位檔：檔案存在就會被跳過，暫時性的 403 會變成永久缺字幕
 
 ## 知識維護規範
 
