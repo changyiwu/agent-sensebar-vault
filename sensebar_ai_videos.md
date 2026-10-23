@@ -6,6 +6,17 @@
 
 | 影片標題 | 網址 | 匹配關鍵字 |
 | --- | --- | --- |
+| 超強做動畫技能_全agent通用_說明欄附上github repo | [https://www.youtube.com/watch?v=vN-VWqVojRs](https://www.youtube.com/watch?v=vN-VWqVojRs) | agent |
+| AI Agent 教學應用:用 AI 寫程式、做動畫影片 | [https://www.youtube.com/watch?v=oeDGjIW_bUM](https://www.youtube.com/watch?v=oeDGjIW_bUM) | agent |
+| AI Agent 教學應用｜遊戲化教學/學生想破關，還是想下課 | [https://www.youtube.com/watch?v=xoOT_FNWYBw](https://www.youtube.com/watch?v=xoOT_FNWYBw) | agent |
+| OpenCode 從零開始 /一部影片一次教完 /免費入門 AI Agent | [https://www.youtube.com/watch?v=hiHkWkvycwA](https://www.youtube.com/watch?v=hiHkWkvycwA) | opencode, agent |
+| AI Agent 教學應用:用 Codex 加 Image 2 5 來製作班服 | [https://www.youtube.com/watch?v=3u7gaDjfG2A](https://www.youtube.com/watch?v=3u7gaDjfG2A) | codex, agent |
+| AI Agent 放大你的教學能力｜輕鬆生成段考試卷 | [https://www.youtube.com/watch?v=upjP25nAbw8](https://www.youtube.com/watch?v=upjP25nAbw8) | agent |
+| AntiGravity 基本功 EP09:用手機遙控你的電腦 Remote Control 完整實測 | [https://www.youtube.com/watch?v=0C_6ePUEpVs](https://www.youtube.com/watch?v=0C_6ePUEpVs) | antigravity |
+| 生生有 Token，師師有 Token ChatGPT Codex 免帳號登入，AI Agent 教學神器 | [https://www.youtube.com/watch?v=nixK1MXlXDI](https://www.youtube.com/watch?v=nixK1MXlXDI) | codex, agent |
+| Agent Skill 完全攻略:Gems 不是被淘汰，是該升級成 Skill | [https://www.youtube.com/watch?v=sB5RrZkOUuU](https://www.youtube.com/watch?v=sB5RrZkOUuU) | agent |
+| OpenCode 基本功 EP07:新版本完全體，DeepSeek V4 Flash ＋ Luna 最佳搭配 | [https://www.youtube.com/watch?v=dUz1PuNzDV0](https://www.youtube.com/watch?v=dUz1PuNzDV0) | opencode |
+| AI Agent 教學應用 Google Spark ＋ GAS，教師自動化的雲端神搭配 | [https://www.youtube.com/watch?v=lvl6N_MCgLE](https://www.youtube.com/watch?v=lvl6N_MCgLE) | agent |
 | 一份教材生出 30 種遊戲 AI Agent 全自動操作 Wordwall | [https://www.youtube.com/watch?v=SDnWhL2RSag](https://www.youtube.com/watch?v=SDnWhL2RSag) | agent |
 | AI Agent 基本功EP07:需求探索四象限法，釐清專案需求的最後一塊拼圖 | [https://www.youtube.com/watch?v=nL4OAYdJ3Ew](https://www.youtube.com/watch?v=nL4OAYdJ3Ew) | agent |
 | Claude Code 基本功 EP14:Remote Control 完全解放，手機、筆電、電腦同步協作 | [https://www.youtube.com/watch?v=s0rbb_NjLHQ](https://www.youtube.com/watch?v=s0rbb_NjLHQ) | claude |
