@@ -14,7 +14,7 @@ ydl_opts = {
 }
 
 # Targeted keywords as requested
-keywords = ["claude", "codex", "antigravity", "opencode", "agent", "googlea"]
+keywords = ["claude", "codex", "antigravity", "opencode", "agent", "googlea", "google ai"]
 
 print("Extracting videos from sensebar YouTube channel...")
 all_entries = []

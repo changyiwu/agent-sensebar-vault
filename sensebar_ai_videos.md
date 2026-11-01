@@ -2,7 +2,7 @@
 
 此清單篩選自 YouTube 頻道 [@sensebar](https://www.youtube.com/@sensebar) 中與 **Claude AI**、**Codex**、**AntiGravity**、**OpenCode** 及 **AI Agent** 相關的影片。
 
-**篩選關鍵字：** `claude, codex, antigravity, opencode, agent, googlea`
+**篩選關鍵字：** `claude, codex, antigravity, opencode, agent, googlea, google ai`
 
 | 影片標題 | 網址 | 匹配關鍵字 |
 | --- | --- | --- |
@@ -57,6 +57,7 @@
 | claude desigh的威力 軍艦棋 | [https://www.youtube.com/watch?v=RZMHdYar_DM](https://www.youtube.com/watch?v=RZMHdYar_DM) | claude |
 | Claude基本功EP095 : 5 分鐘學會！Claude 串接 Firebase 資料庫全攻略懶人包。 | [https://www.youtube.com/watch?v=EBwFeyTvcR8](https://www.youtube.com/watch?v=EBwFeyTvcR8) | claude |
 | Claude基本功EP09:免費Supabase串起你的資料庫_用自然語言操控資料庫，完全免費的開發新邏輯 | [https://www.youtube.com/watch?v=aRpZL-CyS7k](https://www.youtube.com/watch?v=aRpZL-CyS7k) | claude |
+| Google AI 基本功 EP07Gemini 聯手 NotebookLM打造地表最強 AI 知識庫 | [https://www.youtube.com/watch?v=03Tggt3gTnc](https://www.youtube.com/watch?v=03Tggt3gTnc) | google ai |
 | Claude基本功EP08 :用 Obsidian 打造 AI 筆記流_為什麼你的筆記總是沒用？打造會自動成長的 AI 第二大腦！ | [https://www.youtube.com/watch?v=b21TUOL1JdI](https://www.youtube.com/watch?v=b21TUOL1JdI) | claude |
 | Claude基本功EP07 : 5 分鐘搞定！Claude 結合 Obsidian 第二大腦懶人包完整教學 | [https://www.youtube.com/watch?v=XrcQrD-Lf04](https://www.youtube.com/watch?v=XrcQrD-Lf04) | claude |
 | Claude基本功EP06:用claude+notebookLM+Github打造你的專屬教學駕駛艙 | [https://www.youtube.com/watch?v=e6oMbuP3D2Q](https://www.youtube.com/watch?v=e6oMbuP3D2Q) | claude |
@@ -116,3 +117,4 @@
 | Claude code desktop  從零打造 AI 語音輸入工具 | [https://www.youtube.com/watch?v=laSfvJmD5nc](https://www.youtube.com/watch?v=laSfvJmD5nc) | claude |
 | Claude基本功 EP05：建立你的個人倉庫_GitHub 懶人包與教學網頁上線 | [https://www.youtube.com/watch?v=EKJ832yOLLw](https://www.youtube.com/watch?v=EKJ832yOLLw) | claude |
 | Claude的skills在教學上的應用_Claude Skill Creator 攻略：手把手教你創造專屬的 AI 技能 | [https://www.youtube.com/watch?v=JXexdAckn38](https://www.youtube.com/watch?v=JXexdAckn38) | claude |
+| Edcafe x Google AI：老師必學的數位工具 Combo 技！快速打造互動課堂 | [https://www.youtube.com/watch?v=JBZeoaAsziE](https://www.youtube.com/watch?v=JBZeoaAsziE) | google ai |
