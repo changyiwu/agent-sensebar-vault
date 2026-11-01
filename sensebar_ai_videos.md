@@ -2,10 +2,11 @@
 
 此清單篩選自 YouTube 頻道 [@sensebar](https://www.youtube.com/@sensebar) 中與 **Claude AI**、**Codex**、**AntiGravity**、**OpenCode** 及 **AI Agent** 相關的影片。
 
-**篩選關鍵字：** `claude, codex, antigravity, opencode, agent`
+**篩選關鍵字：** `claude, codex, antigravity, opencode, agent, googlea`
 
 | 影片標題 | 網址 | 匹配關鍵字 |
 | --- | --- | --- |
+| ChatGPT Codex Agent 終極設定，一次搞定所有教學應用 | [https://www.youtube.com/watch?v=DC_Mtz0ZAuE](https://www.youtube.com/watch?v=DC_Mtz0ZAuE) | codex, agent |
 | 超強做動畫技能_全agent通用_說明欄附上github repo | [https://www.youtube.com/watch?v=vN-VWqVojRs](https://www.youtube.com/watch?v=vN-VWqVojRs) | agent |
 | AI Agent 教學應用:用 AI 寫程式、做動畫影片 | [https://www.youtube.com/watch?v=oeDGjIW_bUM](https://www.youtube.com/watch?v=oeDGjIW_bUM) | agent |
 | AI Agent 教學應用｜遊戲化教學/學生想破關，還是想下課 | [https://www.youtube.com/watch?v=xoOT_FNWYBw](https://www.youtube.com/watch?v=xoOT_FNWYBw) | agent |
@@ -66,5 +67,52 @@
 | Claude基本功 EP01：一次搞懂 Claude 全生態：從聊天到全自動化寫程式 | [https://www.youtube.com/watch?v=luRFvHW0SF8](https://www.youtube.com/watch?v=luRFvHW0SF8) | claude |
 | Claude Dispatch 功能來取代你的龍蝦_最穩定、最簡單的電腦遠端控制方案來了 | [https://www.youtube.com/watch?v=64O1LSpGJYI](https://www.youtube.com/watch?v=64O1LSpGJYI) | claude |
 | 2,000 個檔案瞬間整齊_Claude_Cowork 到底多可怕？AI 時代必備！Claude Cowork 桌面版安裝與應用全攻略 | [https://www.youtube.com/watch?v=X7LPU5q8mn4](https://www.youtube.com/watch?v=X7LPU5q8mn4) | claude |
+| GoogleAI基本功EP06_使用Notebook LM的五大場景_Gemini 還是 Notebook LM？你其實一直選錯了 | [https://www.youtube.com/watch?v=CcS5YUmZPWk](https://www.youtube.com/watch?v=CcS5YUmZPWk) | googlea |
+| GoogleAI基本功EP05:一個影片搞懂 Google Canvas 畫布的全部功能_vibe coding佈署GAS | [https://www.youtube.com/watch?v=VyV2GJSzwkY](https://www.youtube.com/watch?v=VyV2GJSzwkY) | googlea |
+| GoogleAI基本功EP04 :升級你的 Gemini"一次搞懂 Storybook、Gem 與 OPAL" | [https://www.youtube.com/watch?v=K8OUMk40hec](https://www.youtube.com/watch?v=K8OUMk40hec) | googlea |
+| GoogleAI基本功EP03：關於 AI 生圖的一切_生圖、改圖、資訊圖表一網打盡 | [https://www.youtube.com/watch?v=MGwKj_ia1jk](https://www.youtube.com/watch?v=MGwKj_ia1jk) | googlea |
+| GoogleAI基本功EP02 AI搜索與深度研究_Google Deep Research 全攻略：從資料蒐集到報告生成一次搞定。 | [https://www.youtube.com/watch?v=WCmP7-WkmJE](https://www.youtube.com/watch?v=WCmP7-WkmJE) | googlea |
+| GoogleAI基本功EP01:雙神器設定-讓新手也能秒上手 | [https://www.youtube.com/watch?v=aQEdqtgK47M](https://www.youtube.com/watch?v=aQEdqtgK47M) | googlea |
 | 輕鬆自製AI網頁小工具：用Claude 3.5打造QR Code與縮網址神器！使用AI自製網頁小工具_教學應用_圖片分割工具 | [https://www.youtube.com/watch?v=h8l5gNvrStE](https://www.youtube.com/watch?v=h8l5gNvrStE) | claude |
 | AI 作文批改_學生和家長的自學救星_教學應用_教育_國中國中_教育會考_claude.ai | [https://www.youtube.com/watch?v=XRxJLfFwzOM](https://www.youtube.com/watch?v=XRxJLfFwzOM) | claude |
+| Chatgpt Codex Agent 終極設定，一次搞定所有教學應用 | [https://www.youtube.com/watch?v=82VfNhiXvRA](https://www.youtube.com/watch?v=82VfNhiXvRA) | codex, agent |
+| AI 越聰明，你越省力｜為什麼 AI Agent 是你最後一個要學的 AI 工具 | [https://www.youtube.com/watch?v=SveEToRcBeo](https://www.youtube.com/watch?v=SveEToRcBeo) | agent |
+| AI Agent 教學應用：用 AI 寫程式、做動畫影片 | [https://www.youtube.com/watch?v=3B-nttpgSCw](https://www.youtube.com/watch?v=3B-nttpgSCw) | agent |
+| 學生想破關，還是想下課？遊戲化教學 × AI Agent，讓學習成為過關的關鍵 | [https://www.youtube.com/watch?v=5_MvT-aRD70](https://www.youtube.com/watch?v=5_MvT-aRD70) | agent |
+| AI Agent 教學應用：用 Codex 加 Image 2.5 來製作班服 | [https://www.youtube.com/watch?v=sWxTX12v1-Y](https://www.youtube.com/watch?v=sWxTX12v1-Y) | codex, agent |
+| AI Agent 教學應用：放大你的專業能力_輕鬆生成段考試卷 | [https://www.youtube.com/watch?v=gvsQeFATSxQ](https://www.youtube.com/watch?v=gvsQeFATSxQ) | agent |
+| Opencode 基本功EP07:新版本完全體_最佳搭配設定 | [https://www.youtube.com/watch?v=GU-WCdzJg8E](https://www.youtube.com/watch?v=GU-WCdzJg8E) | opencode |
+| AI Agent 教學應用：一份教材生成 30 種遊戲_用 Agent 來操控 Wordwall | [https://www.youtube.com/watch?v=h4H5hXTUdA8](https://www.youtube.com/watch?v=h4H5hXTUdA8) | agent |
+| AI agent基本功EP07:需求探索四象限法_釐清專案需求的最後一塊拼圖 | [https://www.youtube.com/watch?v=GnMiKXLeGzc](https://www.youtube.com/watch?v=GnMiKXLeGzc) | agent |
+| Claude code 基本功EP14:Remote Control 完全解放手機、電腦、筆電同步協作專案 | [https://www.youtube.com/watch?v=lCfHhphO_aM](https://www.youtube.com/watch?v=lCfHhphO_aM) | claude |
+| AI Agent 基本功EP06：跨 Agent 跨電腦協作專案 | [https://www.youtube.com/watch?v=lbqmYgtEieY](https://www.youtube.com/watch?v=lbqmYgtEieY) | agent |
+| OpenCode 基本功 EP06：完全解析各種模型的正確用法_最強模型 Kimi K3 正式登場。 | [https://www.youtube.com/watch?v=j7v281qoVzo](https://www.youtube.com/watch?v=j7v281qoVzo) | opencode |
+| AI Agent基本功 EP05:三層一次講清楚／搞定 技能・全域・專案 | [https://www.youtube.com/watch?v=nunfFoS3-Xs](https://www.youtube.com/watch?v=nunfFoS3-Xs) | agent |
+| AI Agent基本功:EP04,讓 Agent 的手腳伸出你的電腦｜連接器、MCP 一張地圖講清楚 | [https://www.youtube.com/watch?v=4agikgWGpPw](https://www.youtube.com/watch?v=4agikgWGpPw) | agent |
+| AI Agent教學應用:予 AI 講台語！_免費開源教材產生器——教育部官方發音，安裝到生成一次看完 | [https://www.youtube.com/watch?v=11ROttp_5zk](https://www.youtube.com/watch?v=11ROttp_5zk) | agent |
+| GPT Codex 基本功EP05: Codex超好用的五個功能 | [https://www.youtube.com/watch?v=alb9Bq2PhOk](https://www.youtube.com/watch?v=alb9Bq2PhOk) | codex |
+| AI Agent 基本功 EP03:Agent 到底會做什麼？Agent 的四隻手腳：讀檔 × 寫程式 × 上網 × 出成品 | [https://www.youtube.com/watch?v=yShlwYrZxzg](https://www.youtube.com/watch?v=yShlwYrZxzg) | agent |
+| OpenCode 基本功 EP05: 免費Big Pickle與最強GLM 5.2 | [https://www.youtube.com/watch?v=cXp0Cj3u7jE](https://www.youtube.com/watch?v=cXp0Cj3u7jE) | opencode |
+| AI Agent 基本功 EP02：學習 Agent 所要知道的基本觀念以及初始化設定 | [https://www.youtube.com/watch?v=gm1ln1Z0hHo](https://www.youtube.com/watch?v=gm1ln1Z0hHo) | agent |
+| Antigravity基本功EP08:Agent代理/複製你的聲音！ | [https://www.youtube.com/watch?v=5jj4W5XU3nw](https://www.youtube.com/watch?v=5jj4W5XU3nw) | antigravity, agent |
+| AI_Agent 基本功 EP01：用 Agent 來學習 Agent | [https://www.youtube.com/watch?v=8QzfB8_LcH0](https://www.youtube.com/watch?v=8QzfB8_LcH0) | agent |
+| AntiGravity基本功EP07:全面接管Padlet_教學神器無限電子佈告欄 | [https://www.youtube.com/watch?v=pI2nitfc8Tg](https://www.youtube.com/watch?v=pI2nitfc8Tg) | antigravity |
+| Open Code 基本功EP04: 免費 Agent組裝你的 Agent 大軍_無限解放token | [https://www.youtube.com/watch?v=kOZUNSvyrgU](https://www.youtube.com/watch?v=kOZUNSvyrgU) | agent |
+| Antigravity 基本功 EP06：全面代理你的 Google Classroom | [https://www.youtube.com/watch?v=QOsWBcs1RAQ](https://www.youtube.com/watch?v=QOsWBcs1RAQ) | antigravity |
+| AntiGravity 基本功 EP05：教學應用程式的 5 個階段 | [https://www.youtube.com/watch?v=8INcIHIYnMA](https://www.youtube.com/watch?v=8INcIHIYnMA) | antigravity |
+| AntiGravity 基本功 EP04：全面升級你的Gem | [https://www.youtube.com/watch?v=NpBfe9LfEUA](https://www.youtube.com/watch?v=NpBfe9LfEUA) | antigravity |
+| AntiGravity 基本功 EP03：自動NotebookLM+Netlify+GAS+Github+Firebase  打造終極教學備課工作流_最強設定懶人包 | [https://www.youtube.com/watch?v=wH2tXQY5MOU](https://www.youtube.com/watch?v=wH2tXQY5MOU) | antigravity |
+| AntiGravity 基本功 EP02:極速處理教學檔案 | [https://www.youtube.com/watch?v=agQOf09rXlk](https://www.youtube.com/watch?v=agQOf09rXlk) | antigravity |
+| OpenCode 基本功 EP03：近乎無限的用量，幫你處理所有的雜務_Go方案_最划算的訂閱制 | [https://www.youtube.com/watch?v=VccxnWOeDDo](https://www.youtube.com/watch?v=VccxnWOeDDo) | opencode |
+| AI Agents自動生成影片 Hyperframes_懶人包福利大放送_三大類型影片包 | [https://www.youtube.com/watch?v=EH8QG6S4mJY](https://www.youtube.com/watch?v=EH8QG6S4mJY) | agent |
+| AI Agents 時代下教學簡報完全體：HTML 簡報 | [https://www.youtube.com/watch?v=eV0BTIIwpuk](https://www.youtube.com/watch?v=eV0BTIIwpuk) | agent |
+| Open Code 基本功EP02：最便宜的開源Agents? | [https://www.youtube.com/watch?v=tiWSQNaunwg](https://www.youtube.com/watch?v=tiWSQNaunwg) | agent |
+| Google AntiGravity 2，真的有如傳說的那樣嗎？ | [https://www.youtube.com/watch?v=hBEXshEnWRY](https://www.youtube.com/watch?v=hBEXshEnWRY) | antigravity |
+| OpenCode基本功 EP01：免費 AI Agent 啟手式_免費仔必看！三師爸手把手教你用開源OpenCode打造專屬AI Agent！ | [https://www.youtube.com/watch?v=lB7Pl8Dl_Rw](https://www.youtube.com/watch?v=lB7Pl8Dl_Rw) | opencode, agent |
+| 使用 AI Agent 來自動剪輯教學影片_Skills 技能懶人包福利大放送_老師必學！教學影片自動化剪輯，從錄影到上架一次搞定 | [https://www.youtube.com/watch?v=TU_Upg_whtk](https://www.youtube.com/watch?v=TU_Upg_whtk) | agent |
+| claude code x OpenAI Codex長出來的技能(skills)才是你的技能_你還在用舊版的 AI 機器人嗎？Agent 時代的真正玩法大公開 | [https://www.youtube.com/watch?v=n70bPQ7quPQ](https://www.youtube.com/watch?v=n70bPQ7quPQ) | claude, codex, agent |
+| 一次搞懂 AI 代理人的三件事_Agent_claude_code_feat_codex | [https://www.youtube.com/watch?v=YpJQ1JNOqVg](https://www.youtube.com/watch?v=YpJQ1JNOqVg) | claude, codex, agent |
+| Claude基本功EP10:新手從零開始你的專案-使用Claude code來寫教學應用程式_從小白到高手的進階分水嶺：掌握專案管理的「一桌三櫃」法 | [https://www.youtube.com/watch?v=-wb0QKHcyds](https://www.youtube.com/watch?v=-wb0QKHcyds) | claude |
+| Claude code desktop  從零打造 AI 語音輸入工具 | [https://www.youtube.com/watch?v=laSfvJmD5nc](https://www.youtube.com/watch?v=laSfvJmD5nc) | claude |
+| Claude基本功 EP05：建立你的個人倉庫_GitHub 懶人包與教學網頁上線 | [https://www.youtube.com/watch?v=EKJ832yOLLw](https://www.youtube.com/watch?v=EKJ832yOLLw) | claude |
+| Claude的skills在教學上的應用_Claude Skill Creator 攻略：手把手教你創造專屬的 AI 技能 | [https://www.youtube.com/watch?v=JXexdAckn38](https://www.youtube.com/watch?v=JXexdAckn38) | claude |

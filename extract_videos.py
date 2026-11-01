@@ -6,7 +6,7 @@ import sys
 # Set output encoding to UTF-8
 sys.stdout.reconfigure(encoding='utf-8')
 
-url = "https://www.youtube.com/@sensebar/videos"
+channel_url = "https://www.youtube.com/@sensebar"
 ydl_opts = {
     'extract_flat': True,
     'skip_download': True,
@@ -14,17 +14,23 @@ ydl_opts = {
 }
 
 # Targeted keywords as requested
-keywords = ["claude", "codex", "antigravity", "opencode", "agent"]
+keywords = ["claude", "codex", "antigravity", "opencode", "agent", "googlea"]
 
 print("Extracting videos from sensebar YouTube channel...")
-try:
-    with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-        info = ydl.extract_info(url, download=False)
-except Exception as e:
-    print(f"Error extracting channel info: {e}")
-    sys.exit(1)
+all_entries = []
+for tab in ['videos', 'streams']:
+    try:
+        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+            info = ydl.extract_info(f"{channel_url}/{tab}", download=False)
+    except Exception as e:
+        print(f"Error extracting {tab} tab: {e}")
+        sys.exit(1)
+    tab_entries = info.get('entries', [])
+    print(f"Found {len(tab_entries)} entries on {tab} tab")
+    all_entries.extend(tab_entries)
 
-entries = info.get('entries', [])
+# The same video can appear on both tabs
+entries = list({entry.get('id') or entry.get('url'): entry for entry in all_entries}.values())
 print(f"Total videos found on channel: {len(entries)}")
 
 matches = []

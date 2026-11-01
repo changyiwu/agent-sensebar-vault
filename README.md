@@ -23,7 +23,7 @@ graph TD
 ## 🛠️ 逐步實作工作流
 
 ### 步驟 1：篩選頻道影片並提取 URL
-使用 Python 腳本 `extract_videos.py` 從目標 YouTube 頻道抓取影片中繼資料，依據特定關鍵字（`claude`, `codex`, `antigravity`, `opencode`, `agent`）進行篩選，並匯出純文字的 URL 清單。
+使用 Python 腳本 `extract_videos.py` 從目標 YouTube 頻道的「影片」與「直播」分頁抓取影片中繼資料（依影片 ID 去重），依據特定關鍵字（`claude`, `codex`, `antigravity`, `opencode`, `agent`, `googlea`）進行篩選，並匯出純文字的 URL 清單。
 
 *   **腳本**：`extract_videos.py`
 *   **輸出**：`sensebar_ai_urls.txt`
